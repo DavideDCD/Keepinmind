@@ -2,7 +2,7 @@
 Python code used to generate relation maps for the paper "Graph-like organization of non-spatial knowledge about social
 closeness in movie narratives" by Federica Santacroce, Giorgia Committeri, Davide Di Censo, Carlo Sestieri and Annalisa Tosoni.
 
-Abstract
+# Abstract
 Research in cognitive science has progressively highlighted the notion of geometric
 representations (map and graph-like structures) for storing and organizing knowledge in
 both spatial and non-spatial domains. It’s unclear, however, whether these representations
